@@ -1,9 +1,9 @@
 # Chatbot using NLP Technologies
 
 ## Overview
-This project implements a conversational AI chatbot named "Smart Chatbot" using Natural Language Processing (NLP) techniques. 
-The chatbot is designed to understand various user inputs and provide meaningful responses based on predefined patterns. 
-It leverages the power of `nltk` for natural language understanding, `scikit-learn` for machine learning-based text classification, and `streamlit` to offer an interactive web-based interface. 
+This project implements a conversational AI chatbot named "Smart Chatbot" using Natural Language Processing (NLP) techniques. <br>
+The chatbot is designed to understand various user inputs and provide meaningful responses based on predefined patterns. <br>
+It leverages the power of `nltk` for natural language understanding, `scikit-learn` for machine learning-based text classification, and `streamlit` to offer an interactive web-based interface. <br>
 This project demonstrates the integration of NLP with a user-friendly interface, suitable for personal or educational use.
 
 ---
@@ -28,12 +28,12 @@ This project demonstrates the integration of NLP with a user-friendly interface,
 ## Installation
 
 ### 1. Clone the Repository
-First, clone the repository to your local machine:
+- First, clone the repository to your local machine:
 ```bash
 git clone https://github.com/mohammed-salman-m2/smart-chatbot.git
 
 ```
-Then navigate to the project directory:
+- Then navigate to the project directory:
 ```bash
 cd smart-chatbot
 ```
@@ -46,8 +46,14 @@ It is recommended to create a virtual environment to manage project dependencies
 python -m venv venv
 ```
 - Activate the virtual environment:
-    - On Windows use: ```bash venv\Scripts\activate ```
-    - On Linux/Mac use: ```bash source venv/bin/activate  ```
+    - On Windows use:
+      ```bash
+      venv\Scripts\activate
+      ```
+    - On Linux/Mac use:
+      ```bash
+      source venv/bin/activate
+      ```
 
 ### 3. Install Required Packages
 Once the virtual environment is activated, install the required packages listed in `requirements.txt`
@@ -72,9 +78,9 @@ To run the chatbot application, execute the following command:
 streamlit run app.py
 ```
 
-Once the application is running, open your browser and interact with Smart Chatbot through the web interface. Type your message in the input box, and hit Enter to see the chatbot's response. Example exchanges could look like:
+Once the application is running, open your browser and interact with Smart Chatbot through the web interface. <br> Type your message in the input box, and hit Enter to see the chatbot's response. Example exchanges could look like:
 * User: "Hello!"
-* Bot: "Hi there! How can I help you today?"
+* Chatbot: "Hi there! How can I help you today?"
 
 ---
 
@@ -84,12 +90,12 @@ The chatbot’s behavior is controlled by the `intents.json` file, which defines
 ---
 
 ## Conversation History
-The chatbot logs all interactions in a CSV file (`chat_log.csv`). This history allows users to review past conversations. You can also view the conversation history by selecting the "Conversation History" option from the sidebar.
+The chatbot logs all interactions in a CSV file (`chat_log.csv`). This history allows users to review past conversations. <br>You can also view the conversation history by selecting the "Conversation History" option from the sidebar.
 
 ---
 
 ## Contributing
-Contributions are welcome! Feel free to fork the repository, create a feature branch, and submit a pull request. If you encounter any bugs or have feature suggestions, please open an issue.
+Contributions are welcome! Feel free to fork the repository, create a feature branch, and submit a pull request. <br> If you encounter any bugs or have feature suggestions, please open an issue.
 
 ---
 
