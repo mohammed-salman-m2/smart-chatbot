@@ -112,6 +112,6 @@ This project is licensed under the MIT License.
 ---
 
 ## Smart Chatbot App
-Check out the live version of the app [Smart Chatbot](https://simple-smart-chatbot.streamlit.app/).
+Check out the live version of the app  [Smart Chatbot](https://simple-smart-chatbot.streamlit.app/)
 
 # Code the impossible, make it possible. 💻✨
