@@ -100,7 +100,7 @@ Contributions are welcome! Feel free to fork the repository, create a feature br
 ---
 
 ## License
-This project is licensed under the MIT License. See the [LICENSE]LICENSE file for details.
+This project is licensed under the MIT License.
 
 ---
 
@@ -111,5 +111,7 @@ This project is licensed under the MIT License. See the [LICENSE]LICENSE file fo
 
 ---
 
+## Smart Chatbot App
+Check out the live version of the app [Smart Chatbot](https://simple-smart-chatbot.streamlit.app/).
 
 # Code the impossible, make it possible. 💻✨
