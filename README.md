@@ -1,4 +1,4 @@
-# Chatbot using NLP Technologies
+# Chatbot Implementation Using NLP Techniques
 
 ## Overview
 This project implements a conversational AI chatbot named "Smart Chatbot" using Natural Language Processing (NLP) techniques. <br>
